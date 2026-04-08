@@ -1,10 +1,15 @@
 # 代理列表
 
 # OpenAI
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN,openai.com.cdn.cloudflare.net,AI
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
-DOMAIN-KEYWORD,openai,AI
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,sora.com
+DOMAIN-KEYWORD,openai
+DOMAIN-KEYWORD, openaicom-api-
 
 # cloudflare
 DOMAIN-SUFFIX,cloudflare.com
