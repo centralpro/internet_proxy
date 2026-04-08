@@ -1,0 +1,9 @@
+# 代理列表
+
+# OpenAI
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+DOMAIN-SUFFIX,oaistatic.com
+
+# cloudflare
+DOMAIN-SUFFIX,cloudflare.com
