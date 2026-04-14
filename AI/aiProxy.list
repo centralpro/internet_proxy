@@ -28,9 +28,10 @@ DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,plausible.io
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,facebook.net
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,butterfly-effect.dev
+DOMAIN,mpc-prod-23-s6uit34pua-ue.a.run.app
 
 # Anthropic
 DOMAIN-KEYWORD,claude
