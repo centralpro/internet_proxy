@@ -24,10 +24,18 @@ DOMAIN-SUFFIX,cloudflare.com
 # manus
 DOMAIN-KEYWORD,manus
 DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,plausible.io
-DOMAIN-SUFFIX,amplitude.co
+DOMAIN-SUFFIX,amplitude.com
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,
 
 # Anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,claude.ai
+
+# uv
+DOMAIN-SUFFIX,pythonhosted.org
