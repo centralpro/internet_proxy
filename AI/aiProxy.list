@@ -15,9 +15,17 @@ DOMAIN-KEYWORD, openaicom-api-
 DOMAIN-KEYWORD,huggingface
 DOMAIN-SUFFIX,huggingface.co
 
+# openrouter
+DOMAIN-SUFFIX,openrouter.ai
+
 # cloudflare
 DOMAIN-SUFFIX,cloudflare.com
 
 # manus
 DOMAIN-KEYWORD,manus
 DOMAIN-SUFFIX,manus.im
+
+# Anthropic
+DOMAIN-KEYWORD,claude
+DOMAIN-KEYWORD,anthropic
+DOMAIN-SUFFIX,claude.ai
