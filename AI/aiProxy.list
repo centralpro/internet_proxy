@@ -11,5 +11,13 @@ DOMAIN-SUFFIX,sora.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD, openaicom-api-
 
+# huggingface
+DOMAIN-KEYWORD,huggingface
+DOMAIN-SUFFIX,huggingface.co
+
 # cloudflare
 DOMAIN-SUFFIX,cloudflare.com
+
+# manus
+DOMAIN-KEYWORD,manus
+DOMAIN-SUFFIX,manus.im
