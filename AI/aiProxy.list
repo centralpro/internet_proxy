@@ -25,6 +25,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-KEYWORD,manus
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,plausible.io
+DOMAIN-SUFFIX,amplitude.co
 
 # Anthropic
 DOMAIN-KEYWORD,claude
