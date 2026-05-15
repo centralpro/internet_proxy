@@ -1,42 +1,47 @@
-# 代理列表
+# AI / LLM 服务
 
 # OpenAI
 DOMAIN,openaiapi-site.azureedge.net
-DOMAIN,openai.com.cdn.cloudflare.net,AI
+DOMAIN,openai.com.cdn.cloudflare.net
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,oaistatic.com
+DOMAIN-SUFFIX,oaiusercontent.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,sora.com
 DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD, openaicom-api-
-
-# huggingface
-DOMAIN-KEYWORD,huggingface
-DOMAIN-SUFFIX,huggingface.co
-
-# openrouter
-DOMAIN-SUFFIX,openrouter.ai
-
-# cloudflare
-DOMAIN-SUFFIX,cloudflare.com
-
-# manus
-DOMAIN-KEYWORD,manus
-DOMAIN-SUFFIX,manus.im
-DOMAIN-SUFFIX,manuscdn.com
-DOMAIN-SUFFIX,plausible.io
-DOMAIN-SUFFIX,amplitude.com
-DOMAIN-SUFFIX,facebook.net
-DOMAIN-SUFFIX,googletagmanager.com
-DOMAIN-SUFFIX,facebook.com
-DOMAIN-SUFFIX,butterfly-effect.dev
-DOMAIN,mpc-prod-23-s6uit34pua-ue.a.run.app
+DOMAIN-KEYWORD,openaicom-api
 
 # Anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
 
-# uv
-DOMAIN-SUFFIX,pythonhosted.org
+# Google AI
+DOMAIN-SUFFIX,gemini.google.com
+DOMAIN-SUFFIX,aistudio.google.com
+DOMAIN-SUFFIX,generativelanguage.googleapis.com
+DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+
+# Hugging Face
+DOMAIN-KEYWORD,huggingface
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+
+# OpenRouter
+DOMAIN-SUFFIX,openrouter.ai
+
+# Manus
+DOMAIN-KEYWORD,manus
+DOMAIN-SUFFIX,manus.im
+DOMAIN-SUFFIX,manuscdn.com
+DOMAIN-SUFFIX,butterfly-effect.dev
+DOMAIN,mpc-prod-23-s6uit34pua-ue.a.run.app
+
+# 分析 / 埋点（Manus 等页面依赖，按需保留）
+DOMAIN-SUFFIX,plausible.io
+DOMAIN-SUFFIX,amplitude.com
+
+# Cloudflare（AI 站点 CDN）
+DOMAIN-SUFFIX,cloudflare.com

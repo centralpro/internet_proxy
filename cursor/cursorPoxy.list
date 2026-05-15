@@ -1,7 +1,6 @@
-# 代理列表
+# Cursor 编辑器相关
 
-# cursor list
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
 DOMAIN-SUFFIX,cursorapi.com
 DOMAIN-SUFFIX,cursor-cdn.com
-DOMAIN-SUFFIX,cursor.com
