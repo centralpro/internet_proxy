@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,pythonhosted.org
 DOMAIN-SUFFIX,files.pythonhosted.org
 DOMAIN-SUFFIX,astral.sh
 DOMAIN-SUFFIX,docs.astral.sh
+DOMAIN-SUFFIX,pythonhosted.org
 
 # ---------- Node / npm ----------
 DOMAIN-SUFFIX,nodejs.org
