@@ -45,3 +45,6 @@ DOMAIN-SUFFIX,amplitude.com
 
 # Cloudflare（AI 站点 CDN）
 DOMAIN-SUFFIX,cloudflare.com
+
+# AI产品
+DOMAIN-SUFFIX,anygen.io
