@@ -1,0 +1,11 @@
+# 直连域名（Loon 规则集：订阅时指定策略 DIRECT）
+# 语法：DOMAIN-SUFFIX,域名  （不含策略名，由 RULE-SET 引用时统一指定）
+
+# ---------- Figma ----------
+DOMAIN-SUFFIX,figma.com
+DOMAIN-SUFFIX,figmacdn.com
+DOMAIN-SUFFIX,figma.site
+DOMAIN-SUFFIX,figma.app
+DOMAIN-SUFFIX,figma.net
+DOMAIN-SUFFIX,figmacdn.net
+DOMAIN-SUFFIX,figmausercontent.com
