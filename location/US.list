@@ -1,0 +1,14 @@
+# 开发 / 包管理 / 源码托管（Loon 规则集：订阅时指定策略，如 Proxy）
+# 语法：DOMAIN-SUFFIX,域名  （不含策略名，由 RULE-SET 引用时统一指定）
+
+# ---------- Meta / Facebook ----------
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,facebook.net
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,messenger.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,muse.ai
