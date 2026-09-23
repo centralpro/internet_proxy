@@ -18,11 +18,7 @@ DOMAIN-KEYWORD,anthropic
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,anthropic.com
 
-# Google AI
-DOMAIN-SUFFIX,gemini.google.com
-DOMAIN-SUFFIX,aistudio.google.com
-DOMAIN-SUFFIX,generativelanguage.googleapis.com
-DOMAIN-SUFFIX,alkalimakersuite-pa.clients6.google.com
+# Google AI（gemini / aistudio / googleapis 见 location/US.list）
 
 # Hugging Face
 DOMAIN-KEYWORD,huggingface

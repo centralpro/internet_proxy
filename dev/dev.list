@@ -117,7 +117,6 @@ DOMAIN-SUFFIX,railway.app
 DOMAIN-SUFFIX,digitalocean.com
 DOMAIN-SUFFIX,supabase.com
 DOMAIN-SUFFIX,supabase.co
-DOMAIN-SUFFIX,firebase.google.com
 DOMAIN-SUFFIX,firebaseio.com
 
 # ---------- Microsoft / VS Code ----------
@@ -130,9 +129,8 @@ DOMAIN-SUFFIX,azure.com
 DOMAIN-SUFFIX,windows.net
 
 # ---------- Google 开发者常用 ----------
-DOMAIN-SUFFIX,googleapis.com
+# googleapis.com / gstatic.com / firebase.google.com 见 location/US.list
 DOMAIN-SUFFIX,googleusercontent.com
-DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googletagmanager.com
 DOMAIN-SUFFIX,chromium.org
 DOMAIN-SUFFIX,chrome.com
@@ -157,7 +155,7 @@ DOMAIN-SUFFIX,postman.com
 DOMAIN-SUFFIX,getpostman.com
 DOMAIN-SUFFIX,swagger.io
 DOMAIN-SUFFIX,openapi.org
-DOMAIN-SUFFIX,sentry.io
+# sentry.io 见 location/US.list
 
 # ---------- Cloudflare（开发 CDN / API）----------
 DOMAIN-SUFFIX,cloudflare.com
