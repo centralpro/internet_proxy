@@ -11,4 +11,21 @@ DOMAIN-SUFFIX,fbsbx.com
 DOMAIN-SUFFIX,messenger.com
 DOMAIN-SUFFIX,m.me
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN-SUFFIX,metaaiusercontent.com
+DOMAIN-SUFFIX,ecto1usercontent.com
+DOMAIN-SUFFIX,instagram.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,meta-agents-apps.workers.dev
 DOMAIN-SUFFIX,muse.ai
+
+# ---------- Meta 依赖第三方（CSP）----------
+DOMAIN-SUFFIX,stripe.com
+DOMAIN-SUFFIX,stripe.network
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtube-nocookie.com
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,google.com
+DOMAIN-SUFFIX,sentry.io
