@@ -19,6 +19,7 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,whatsapp.net
 DOMAIN-SUFFIX,meta-agents-apps.workers.dev
 DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,metaaivm.com
 
 # ---------- Meta 依赖第三方（CSP）----------
 DOMAIN-SUFFIX,stripe.com
