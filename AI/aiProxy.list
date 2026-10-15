@@ -44,3 +44,6 @@ DOMAIN-SUFFIX,cloudflare.com
 
 # AI产品
 DOMAIN-SUFFIX,anygen.io
+
+# cloudflare
+DOMAIN-SUFFIX,cloudflarestorage.com
