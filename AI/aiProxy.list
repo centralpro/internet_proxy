@@ -33,7 +33,6 @@ DOMAIN-KEYWORD,manus
 DOMAIN-SUFFIX,manus.im
 DOMAIN-SUFFIX,manuscdn.com
 DOMAIN-SUFFIX,butterfly-effect.dev
-DOMAIN,mpc-prod-23-s6uit34pua-ue.a.run.app
 
 # 分析 / 埋点（Manus 等页面依赖，按需保留）
 DOMAIN-SUFFIX,plausible.io
@@ -41,6 +40,7 @@ DOMAIN-SUFFIX,amplitude.com
 
 # Cloudflare（AI 站点 CDN）
 DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareinsights.com
 
 # AI产品
 DOMAIN-SUFFIX,anygen.io
