@@ -48,3 +48,4 @@ DOMAIN-SUFFIX,anygen.io
 # cloudflare
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
+DOMAIN-SUFFIX,civitai.com
