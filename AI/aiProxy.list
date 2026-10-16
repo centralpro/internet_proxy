@@ -38,9 +38,7 @@ DOMAIN-SUFFIX,butterfly-effect.dev
 DOMAIN-SUFFIX,plausible.io
 DOMAIN-SUFFIX,amplitude.com
 
-# Cloudflare（AI 站点 CDN）
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloudflareinsights.com
+
 
 # AI产品
 DOMAIN-SUFFIX,anygen.io
@@ -48,4 +46,3 @@ DOMAIN-SUFFIX,anygen.io
 # cloudflare
 DOMAIN-SUFFIX,cloudflarestorage.com
 DOMAIN-SUFFIX,r2.cloudflarestorage.com
-DOMAIN-SUFFIX,civitai.com

@@ -30,3 +30,9 @@ DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,google.com
 DOMAIN-SUFFIX,sentry.io
+
+
+# Cloudflare（AI 站点 CDN）
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,civitai.com
